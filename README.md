@@ -1,6 +1,6 @@
 # API de prédiction de match de football
 
-Cette API est basée sur la loi de Poisson pour prédire les probabilités d'un match de football. Elle utilise les taux d'attaque moyens des équipes (dans ce cas, Marseille et PSG) pour prédire diverses issues possibles pour un match.
+Cette API est basée sur la loi de Poisson pour prédire les probabilités d'un match de football. 
 
 ## Endpoints
 
