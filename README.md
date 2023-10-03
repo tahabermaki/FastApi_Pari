@@ -45,6 +45,15 @@ Pour prédire la probabilité que le nombre total de buts soit supérieur à 3 :
 ```bash
 GET /probability/?bet_id=3&outcome_id=1&specifiant=3
 ```
+
+## Test et Documentation
+
+Pour tester l'API et visualiser la documentation, vous pouvez utiliser Swagger :
+
+1. Assurez-vous que le serveur est en cours d'exécution.
+2. Ouvrez votre navigateur et accédez à [Swagger UI](http://127.0.0.1:8000/docs#/default/get_probability_probability__get).
+
+
 ## Mise en place
 
 1. Clonez ce dépôt.
